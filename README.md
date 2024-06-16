@@ -11,5 +11,5 @@ Created a simple blogsite for anyone who wishes to share daily happenings, new f
 </ul>
 
 Please do give a visit.<br />
-URL: medium-blogsite-ey5pvlolr-naman-sharmas-projects-c3a5f087.vercel.app/<br />
+URL: https://medium-blogsite-ey5pvlolr-naman-sharmas-projects-c3a5f087.vercel.app/<br />
 BACKEND_URL: https://backend.bens-21354.workers.dev
